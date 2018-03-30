@@ -1,2 +1,17 @@
 /* some style */
 
+body {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: rgba(238, 238, 238, 0.733);
+  color: rgb(117, 117, 117);
+}
+
+button {
+  height: 30px;
+  background: none;
+  border-radius: 3px;
+}
+
+button:hover {
+  box-shadow: 1px 1px 2px rgb(200, 200, 200) 
+}
